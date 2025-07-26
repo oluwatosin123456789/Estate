@@ -1,4 +1,5 @@
 import React from 'react';
+import { FaHandshake, FaListAlt, FaCogs } from 'react-icons/fa';
 
 const WhyWorkWithUs = () => {
   return (
@@ -8,10 +9,10 @@ const WhyWorkWithUs = () => {
           Why you should work with us
         </h2>
 
-        {/* Main Grid*/}
+        
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
 
-          {/* Grid 1 */}
+          
           <div className="p-8 rounded-lg shadow-lg hover:shadow-xl  shadow-emerald-100 transition-shadow duration-300">
             <div className="text-green-500 text-5xl mb-4">
               <i className="fas fa-handshake"></i> 
@@ -22,10 +23,10 @@ const WhyWorkWithUs = () => {
             </p>
           </div>
 
-          {/* Grid 2 */}
+          
           <div className="p-8 rounded-lg shadow-lg hover:shadow-xl  shadow-emerald-100 transition-shadow duration-300">
             <div className="text-green-500 text-5xl mb-4">
-              <i className="fas fa-list-alt"></i> 
+              <FaListAlt />
             </div>
             <h3 className="text-2xl font-semibold text-gray-800 mb-2">Extensive Listings</h3>
             <p className="text-gray-600">
@@ -33,10 +34,10 @@ const WhyWorkWithUs = () => {
             </p>
           </div>
 
-          {/* Grid 3 */}
+          
           <div className="p-8 rounded-lg shadow-lg hover:shadow-xl  shadow-emerald-100 transition-shadow duration-300">
             <div className="text-green-500 text-5xl mb-4">
-              <i className="fas fa-cogs"></i> 
+              <FaCogs />
             </div>
             <h3 className="text-2xl font-semibold text-gray-800 mb-2">Seamless Process</h3>
             <p className="text-gray-600">
