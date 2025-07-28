@@ -89,6 +89,16 @@ const Cities = () => {
             </div>
           </a>
 
+
+          
+        <div className="mt-12 text-center"> 
+          <a href="#" 
+            className="inline-block bg-green-500 text-white px-8 py-2 rounded-lg text-wrap  hover:bg-black transition-colors align  shadow-md"
+          >
+            See All Listings →
+          </a>
+        </div>
+
         </div>
       </div>
     </section>

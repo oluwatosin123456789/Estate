@@ -8,6 +8,8 @@ import CallToAction from './components/CallToAction';
 import WhyWorkWithUs from './components/WhyWorkWithUs';
 import PropertyDetailsPage from './components/propertyDetails';
 import FeaturedProperties from './components/FeaturedProperties';
+import Reviews from './components/Reviews'
+import Testimony from './components/Testimony';
 
 import './App.css';
 
@@ -22,6 +24,8 @@ const HomePage = () => (
     <CallToAction /> 
     <WhyWorkWithUs />
     <FeaturedProperties />
+    <Reviews />
+    <Testimony />
     
   </>
 );
