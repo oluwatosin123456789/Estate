@@ -1,4 +1,3 @@
-// src/components/Cities.jsx
 import React from 'react';
 import buildingImage from '../asset/image/building.jpg'; 
 
@@ -10,16 +9,16 @@ const Cities = () => {
           Find Properties in These Cities
         </h2>
         <p className="text-lg text-gray-600 text-center mb-12">
-          Find Peremium homes in this Cities {/* Note: "Peremium" should be "Premium" */}
+          Find Peremium homes in this Cities 
         </p>
 
         {/* My 5 Grid for cities */}
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
 
-          {/* LAGOS Card */}
+          
           <a href="#" className="relative group overflow-hidden rounded-lg shadow-lg cursor-pointer">
             <img
-              src={buildingImage} 
+              src="https://images.unsplash.com/photo-1691743441282-72dbe8f91dcc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bGFnb3MlMjBicmlkZ2V8ZW58MHx8MHx8fDA%3D"
               alt="LAGOS"
               className="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"
             />
@@ -29,10 +28,10 @@ const Cities = () => {
             </div>
           </a>
 
-          {/* ABUJA Card */}
+          
           <a href="#" className="relative group overflow-hidden rounded-lg shadow-lg cursor-pointer">
             <img
-              src={buildingImage} 
+              src="https://images.unsplash.com/photo-1721642472312-cd30e9bd7cac?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QUJVSkF8ZW58MHx8MHx8fDA%3D"
               alt="ABUJA"
               className="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"
             />
@@ -42,10 +41,10 @@ const Cities = () => {
             </div>
           </a>
 
-          {/* PORTHACORT Card */}
+          
           <a href="#" className="relative group overflow-hidden rounded-lg shadow-lg cursor-pointer">
             <img
-              src={buildingImage} 
+              src="https://images.unsplash.com/photo-1623854245266-ea837fd62674?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFJJVkVSUyUyMFNUQVRFfGVufDB8fDB8fHww"
               alt="PORTHACORT"
               className="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"
             />
@@ -55,10 +54,10 @@ const Cities = () => {
             </div>
           </a>
 
-          {/* ENUGUN Card */}
+          
           <a href="#" className="relative group overflow-hidden rounded-lg shadow-lg cursor-pointer">
             <img
-              src={buildingImage} 
+              src="https://images.unsplash.com/photo-1578321272176-b7bbc0679853"
               alt="ENUGUN"
               className="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"
             />
@@ -68,10 +67,10 @@ const Cities = () => {
             </div>
           </a>
 
-          {/* IBADAN Card */}
+          
           <a href="#" className="relative group overflow-hidden rounded-lg shadow-lg cursor-pointer">
             <img
-              src={buildingImage}
+              src="https://media.istockphoto.com/id/2131410984/photo/view-of-ibadan-city-from-oke-are.webp?a=1&b=1&s=612x612&w=0&k=20&c=K-zBtzbmY4tQjmNIPTnb_8I-z43t_ZyS-JOZLXviTCY="
               alt="IBADAN"
               className="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"
             />

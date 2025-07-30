@@ -10,6 +10,7 @@ import PropertyDetailsPage from './components/propertyDetails';
 import FeaturedProperties from './components/FeaturedProperties';
 import Reviews from './components/Reviews'
 import Testimony from './components/Testimony';
+import Articles from './components/Articles';
 
 import './App.css';
 
@@ -26,6 +27,7 @@ const HomePage = () => (
     <FeaturedProperties />
     <Reviews />
     <Testimony />
+    <Articles />
     
   </>
 );

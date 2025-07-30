@@ -15,7 +15,7 @@ const Cities = () => {
           
           <a href="#" className="relative group overflow-hidden rounded-lg shadow-lg cursor-pointer">
             <img
-              src={deskImage}
+              src="https://media.istockphoto.com/id/1346888281/photo/modern-living-room-in-scandinavian-style.webp?a=1&b=1&s=612x612&w=0&k=20&c=s04meaKg5dmzFIBGzvH0GIjpUBSSIAuTyqKTvWycg_w="
               alt="property"
               className="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"
             />
@@ -28,7 +28,7 @@ const Cities = () => {
           
           <a href="#" className="relative group overflow-hidden rounded-lg shadow-lg cursor-pointer">
             <img
-              src={deskImage}
+              src="https://images.unsplash.com/photo-1723258341089-668715856b06?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUwfHxhJTIwZHVwbGV4JTIwNCUyMGJlZCUyMHJvb20lMjBhcGFydG1lbnR8ZW58MHx8MHx8fDA%3D"
               alt="property"
               className="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"
             />
@@ -41,7 +41,7 @@ const Cities = () => {
           
           <a href="#" className="relative group overflow-hidden rounded-lg shadow-lg cursor-pointer">
             <img
-              src={deskImage}
+              src=" https://plus.unsplash.com/premium_photo-1670357854650-ffe51af7c3f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM2fHxhJTIwZHVwbGV4JTIwNCUyMGJlZCUyMHJvb20lMjBhcGFydG1lbnR8ZW58MHx8MHx8fDA%3D"
               alt="property"
               className="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"
             />
@@ -54,7 +54,7 @@ const Cities = () => {
           {/* Property Card 4 */}
           <a href="#" className="relative group overflow-hidden rounded-lg shadow-lg cursor-pointer">
             <img
-              src={deskImage}
+              src=" https://images.unsplash.com/photo-1587136372225-82396eeb0d95?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTMxfHxhJTIwZHVwbGV4JTIwNCUyMGJlZCUyMHJvb20lMjBhcGFydG1lbnR8ZW58MHx8MHx8fDA%3D"
               alt="property"
               className="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"
             />
@@ -66,7 +66,7 @@ const Cities = () => {
 
            <a href="#" className="relative group overflow-hidden rounded-lg shadow-lg cursor-pointer">
             <img
-              src={deskImage}
+              src="https://plus.unsplash.com/premium_photo-1723901831427-109ca9fa842b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI1fHxhJTIwZHVwbGV4JTIwNCUyMGJlZCUyMHJvb20lMjBhcGFydG1lbnR8ZW58MHx8MHx8fDA%3D"
               alt="property"
               className="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"
             />
@@ -79,7 +79,7 @@ const Cities = () => {
 
            <a href="#" className="relative group overflow-hidden rounded-lg shadow-lg cursor-pointer">
             <img
-              src={deskImage}
+              src=" https://images.unsplash.com/photo-1643297550841-1386b3a10612?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YSUyMGR1cGxleCUyMGluJTIwbmlnZXJpYXxlbnwwfHwwfHx8MA%3D%3D"
               alt="property"
               className="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"
             />

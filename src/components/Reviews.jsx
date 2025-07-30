@@ -76,7 +76,7 @@ const RealEstateShowcase = () => {
         <div className="relative">
           <div className="rounded-2xl overflow-hidden shadow-lg">
             <img 
-              src={buildingImage}
+              src="https://images.unsplash.com/photo-1516156008625-3a9d6067fab5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njh8fG5pZ2VyaWElMjByZWFsJTIwZXN0YXRlfGVufDB8fDB8fHww"
               alt="Modern house with green lawn and trees"
               className="w-full h-80 object-cover"
             />
